@@ -1,0 +1,163 @@
+[
+    {
+      "companyName": "A3 Care Ltd",
+      "lenders": [
+        {
+          "lender": "Funding Circle",
+          "netAssets": 36000,
+          "prevYearNetAssets": 30000,
+          "tradingTime": 72,
+          "loanAmount": 36000,
+          "interestRate": 20.30,
+          "monthlyRepayment": 973.89
+        },
+        {
+          "lender": "Fleximize",
+          "netAssets": 36000,
+          "prevYearNetAssets": 30000,
+          "tradingTime": 60,
+          "loanAmount": 40000,
+          "interestRate": 18.50,
+          "monthlyRepayment": 950.75
+        },
+        {
+          "lender": "Barclays",
+          "netAssets": 36000,
+          "prevYearNetAssets": 30000,
+          "tradingTime": 80,
+          "loanAmount": 42000,
+          "interestRate": 22.00,
+          "monthlyRepayment": 1025.30
+        }
+      ]
+    },
+    {
+      "companyName": "Aspen Build (East Anglia) Ltd",
+      "lenders": [
+        {
+          "lender": "Fleximize",
+          "netAssets": 277000,
+          "prevYearNetAssets": 250000,
+          "tradingTime": 24,
+          "loanAmount": 277000,
+          "interestRate": 19.80,
+          "monthlyRepayment": 14094.12
+        },
+        {
+          "lender": "Shawbrook",
+          "netAssets": 277000,
+          "prevYearNetAssets": 250000,
+          "tradingTime": 30,
+          "loanAmount": 300000,
+          "interestRate": 15.75,
+          "monthlyRepayment": 13520.25
+        },
+        {
+          "lender": "Lloyds Bank",
+          "netAssets": 277000,
+          "prevYearNetAssets": 250000,
+          "tradingTime": 36,
+          "loanAmount": 290000,
+          "interestRate": 17.00,
+          "monthlyRepayment": 13850.40
+        }
+      ]
+    },
+    {
+      "companyName": "Beauty & Grace Limited",
+      "lenders": [
+        {
+          "lender": "Iwoca",
+          "netAssets": 250000,
+          "prevYearNetAssets": 240000,
+          "tradingTime": 24,
+          "loanAmount": 250000,
+          "interestRate": 19.20,
+          "monthlyRepayment": 16469.34
+        },
+        {
+          "lender": "Funding Circle",
+          "netAssets": 250000,
+          "prevYearNetAssets": 240000,
+          "tradingTime": 36,
+          "loanAmount": 260000,
+          "interestRate": 17.50,
+          "monthlyRepayment": 15980.50
+        },
+        {
+          "lender": "NatWest",
+          "netAssets": 250000,
+          "prevYearNetAssets": 240000,
+          "tradingTime": 48,
+          "loanAmount": 275000,
+          "interestRate": 16.50,
+          "monthlyRepayment": 15725.20
+        }
+      ]
+    },
+    {
+      "companyName": "CARDEA SOLUTIONS (UK) LTD",
+      "lenders": [
+        {
+          "lender": "Iwoca",
+          "netAssets": 300000,
+          "prevYearNetAssets": 280000,
+          "tradingTime": 24,
+          "loanAmount": 300000,
+          "interestRate": 43.20,
+          "monthlyRepayment": 16565.20
+        },
+        {
+          "lender": "Shawbrook",
+          "netAssets": 300000,
+          "prevYearNetAssets": 280000,
+          "tradingTime": 36,
+          "loanAmount": 320000,
+          "interestRate": 22.50,
+          "monthlyRepayment": 14875.60
+        },
+        {
+          "lender": "Metro Bank",
+          "netAssets": 300000,
+          "prevYearNetAssets": 280000,
+          "tradingTime": 48,
+          "loanAmount": 330000,
+          "interestRate": 20.00,
+          "monthlyRepayment": 14230.90
+        }
+      ]
+    },
+    {
+      "companyName": "Coprisystems Limited",
+      "lenders": [
+        {
+          "lender": "Fleximize",
+          "netAssets": 100000,
+          "prevYearNetAssets": 95000,
+          "tradingTime": 24,
+          "loanAmount": 100000,
+          "interestRate": 21.00,
+          "monthlyRepayment": 7017.89
+        },
+        {
+          "lender": "Funding Circle",
+          "netAssets": 100000,
+          "prevYearNetAssets": 95000,
+          "tradingTime": 24,
+          "loanAmount": 120000,
+          "interestRate": 19.00,
+          "monthlyRepayment": 6850.50
+        },
+        {
+          "lender": "Santander",
+          "netAssets": 100000,
+          "prevYearNetAssets": 95000,
+          "tradingTime": 30,
+          "loanAmount": 130000,
+          "interestRate": 18.00,
+          "monthlyRepayment": 6700.00
+        }
+      ]
+    }
+  ]
+  

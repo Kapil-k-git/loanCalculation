@@ -1,0 +1,55 @@
+# --- 🔹 Node Modules (Common) ---
+node_modules/
+
+# --- 🔹 Logs & Debug Files ---
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log
+lerna-debug.log
+output.log
+debug.log
+
+# --- 🔹 Environment Variables ---
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# --- 🔹 Backend-Specific Ignore ---
+/backend/node_modules/
+/backend/dist/
+/backend/build/
+/backend/coverage/
+backend/.env
+backend/.DS_Store
+backend/logs/
+backend/*.sqlite
+backend/*.sqlite-journal
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+
+# --- 🔹 Frontend-Specific Ignore ---
+/frontend/node_modules/
+/frontend/build/
+/frontend/dist/
+/frontend/coverage/
+frontend/.env
+frontend/.DS_Store
+frontend/.eslintcache
+frontend/.prettier.cache
+
+# --- 🔹 Editor & OS-Specific Ignore ---
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.swn
+
+# --- 🔹 Testing & Debugging Files ---
+/jest/
+jest.config.js
